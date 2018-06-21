@@ -1,0 +1,21 @@
+{
+  "config": [
+    {
+      "base_url": "https://www.bqg5200.com",
+      "search_url": "",
+      "list": "#readerlist li a",
+      "title": ".title h1",
+      "content": "#content",
+      "encoding": "gbk"
+    },
+    {
+      "base_url": "https://www.shukeba.com/35844/",
+      "search_url": "",
+      "list": "#readerlist li a",
+      "title": "",
+      "content": "",
+      "encoding": ""
+    }
+  ]
+}
+
