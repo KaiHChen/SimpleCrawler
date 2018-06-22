@@ -1,7 +1,12 @@
 # SimpleCrawler
 简单的python爬虫
 
+
 ## book_crawler.py
+	使用BeautifulSoup的SS选择器进行内容选择和抓取
+	
+[BeautifulSoup中文文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#id27)
+
 	小说爬虫，需要配置config.json文件
 	{
     "config": [
