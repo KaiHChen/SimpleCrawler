@@ -9,12 +9,12 @@
       "encoding": "gbk"
     },
     {
-      "base_url": "https://www.shukeba.com/35844/",
-      "search_url": "",
-      "list": "#readerlist li a",
-      "title": "",
-      "content": "",
-      "encoding": ""
+      "base_url": "https://www.booktxt.com/",
+      "search_url": "https://www.booktxt.com/search.php?keyword=",
+      "list": "#list dd a",
+      "title": ".bookname h1",
+      "content": "#content",
+      "encoding": "gbk"
     }
   ]
 }

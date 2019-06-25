@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import json
 
 headers = {'User-Agent': 'User-Agent:Mozilla/5.0'}
-
+requests.packages.urllib3.disable_warnings()
 
 def download(name, url):
     if url:
@@ -132,5 +132,4 @@ def getStartNum(name):
         return 0
 
 
-download("九星霸体诀", "https://www.bqg5200.com/xiaoshuo/2/2893/")
-# writeText("diyizhang", "afsdfasdfasdfasdfasdf", "test", 1)
+download("仙帝归来", "https://www.booktxt.com/2_2086/")
