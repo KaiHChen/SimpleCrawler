@@ -1,5 +1,5 @@
 # SimpleCrawler
-简单的python爬虫
+简单的python爬虫（单线程下载，暂不支持多线程）
 
 
 ## book_crawler.py
